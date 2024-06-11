@@ -25,7 +25,7 @@ if __name__ == "__main__":
     RunTime = dict()
     request_lists = dict()
 
-    file_id = list(range(16, 17)) ## 11-24
+    file_id = list(range(11, 25)) ## 11-24
     routes = {}
     training_times = {}
 
