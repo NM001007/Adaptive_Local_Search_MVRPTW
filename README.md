@@ -48,7 +48,7 @@ The table below illustrates the total distance, number of vehicles, and computat
 | pr22a        | 175.55         | 276                | 4760.64          | pr22b        | 172.73         | 276                | 10325.28         |
 | pr23a        | 228.02         | 361                | 11102.03         | pr23b        | 231.04         | 363                | 11833.41         |
 | pr24a        | 278.59         | 447                | 4940.95          | pr24b        | 278.05         | 449                | 5404.69          |
-| Average      | 217.74         | 305.07             | 6252.61          | Average on B | 205.96         | 302.43             | 6966.54          |
+| Average(a)   | 217.74         | 305.07             | 6252.61          | Average(b)   | 205.96         | 302.43             | 6966.54          |
 
 
 ## Reference
