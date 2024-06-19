@@ -4,6 +4,7 @@ The python implementation for the paper "An adaptive large neighborhood search f
 
 # Results on Real-World Datasets
 ## Cordeau 
+The following demonstrates the results obtained by applying the implemented algorithm on the cordeau-2001 dataset.
 | Instance | Total Distance | Number of Vehicles | Computation Time |
 |----------|----------------|--------------------|------------------|
 | pr01     | 7.60           | 19                 | 1190.83          |
@@ -30,7 +31,7 @@ The python implementation for the paper "An adaptive large neighborhood search f
 
 
 ## Vidal
-
+The table below illustrates the total distance, number of vehicles, and computation on both groups (a and b) of Vidal 2013 datasets.
 | Instance (a) | Total Distance | Number of Vehicles | Computation Time | Instance (b) | Total Distance | Number of Vehicles | Computation Time |
 |--------------|----------------|--------------------|------------------|--------------|----------------|--------------------|------------------|
 | pr11a        | 132.69         | 163                | 2443.19          | pr11b        | 125.35         | 167                | 2734.19          |
