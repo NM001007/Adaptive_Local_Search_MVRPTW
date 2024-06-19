@@ -4,7 +4,7 @@ The python implementation for the paper "An adaptive large neighborhood search f
 
 # Results on Real-World Datasets
 ## Cordeau 
-The following demonstrates the results obtained by applying the implemented algorithm on the cordeau-2001 dataset.
+The following demonstrates the results obtained by applying the implemented algorithm on the cordeau-2001 MDVRPTW dataset [[2]](#2).
 | Instance | Total Distance | Number of Vehicles | Computation Time |
 |----------|----------------|--------------------|------------------|
 | pr01     | 7.60           | 19                 | 1190.83          |
@@ -31,7 +31,7 @@ The following demonstrates the results obtained by applying the implemented algo
 
 
 ## Vidal
-The table below illustrates the total distance, number of vehicles, and computation on both groups (a and b) of Vidal 2013 datasets.
+The table below illustrates the total distance, number of vehicles, and computation on both groups (a and b) of Vidal-2013 MDVRPTW datasets [[3]](#3).
 | Instance (a) | Total Distance | Number of Vehicles | Computation Time | Instance (b) | Total Distance | Number of Vehicles | Computation Time |
 |--------------|----------------|--------------------|------------------|--------------|----------------|--------------------|------------------|
 | pr11a        | 132.69         | 163                | 2443.19          | pr11b        | 125.35         | 167                | 2734.19          |
@@ -56,3 +56,9 @@ The table below illustrates the total distance, number of vehicles, and computat
 Wang, Sihan, Wei Sun, and Min Huang. 
 "An adaptive large neighborhood search for the multi-depot dynamic vehicle routing problem with time windows." 
 Computers & Industrial Engineering 191 (2024): 110122.
+
+<a id="2">[2]</a> 
+http://www.vrp-rep.org/datasets/item/2017-0012.html
+
+<a id="3">[3]</a> 
+http://www.vrp-rep.org/datasets/item/2017-0013.html
